@@ -1,16 +1,15 @@
 # blackholeapp
 
-A new Flutter project.
+Bubbles Effect inspire by d3.js library.
+Generate random balls which will be gathered just like black hole physics.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+click the floating play button to get started! 
 
-A few resources to get you started if this is your first Flutter project:
+These bubble were added interactions.
+click them then they will change colors and texts.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+(In other cases, We can click them then go to next page to  show some informations which belongs to the clicked bubble)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+More informations: [Online documentation link](https://liffscanq.azurewebsites.net/)
