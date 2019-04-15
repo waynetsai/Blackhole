@@ -1,7 +1,6 @@
 # blackholeapp
 
-Bubbles Effect inspire by d3.js library.
-Generate random balls which will be gathered just like black hole physics.
+Inspired by d3.js library, random bubbles will be slowly  clustered in the middle just like black hole physics.
 
 ## Getting Started
 
